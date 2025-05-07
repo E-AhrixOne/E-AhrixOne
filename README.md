@@ -2,19 +2,23 @@
 
 ### Ola! Seja bem-vindo ao meu Perfil 👋😸
 
-♦️ Meu nome e Eliel 
+♦️ Meu nome é Eliel  
 - Sou um estudante de Engenharia de Software que está começando sua jornada na programação.  
 > ✨ Gosto do mundo Android, tecnologia e tudo que envolve sistemas.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=E-AhrixOne&show_icons=true&hide_border=true&icon_color=ffffff&title_color=8B0000&text_color=ffffff&bg_color=000000&include_all_commits=true&count_private=true&custom_title=Eliel~" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-AhrixOne&hide_border=true&title_color=8B0000&text_color=ffffff&bg_color=000000&layout=compact"/>
+---
+
+- pt-BR  
+- 📱 Apaixonado por Android  
+- 🧠 Aprendendo a programar do zero  
+- 🌌 Sonhador que busca fazer a diferença com tecnologia
 
 ---
 
-- pt-BR
-- 📱 Apaixonado por Android
-- 🧠 Aprendendo a programar do zero
-- 🌌 Sonhador que busca fazer a diferença com tecnologia
+## 📊 GitHub Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=E-AhrixOne&show_icons=true&hide_border=true&icon_color=ffffff&title_color=8B0000&text_color=ffffff&bg_color=000000&include_all_commits=true&count_private=true&custom_title=Eliel~" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-AhrixOne&hide_border=true&title_color=8B0000&text_color=ffffff&bg_color=000000&layout=compact"/>
 
 ---
 
@@ -30,13 +34,13 @@
 
 ## ✨ Quero um dia...
 
-🎯 Me tornar um bom desenvolvedor,  
-🚀 Contribuir com projetos open-source,  
-🌱 Crescer como pessoa e profissional com cada linha de código.
+🎯 Me tornar um bom desenvolvedor  
+🚀 Contribuir com projetos open-source  
+🌱 Crescer como pessoa e profissional com cada linha de código
 
 ---
 
-<p align="center">
+<p>
   Obrigado por visitar meu perfil! 🌟<br>
   Sinta-se à vontade para me seguir ou ver meus projetos.
 </p>
