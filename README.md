@@ -1,6 +1,6 @@
 # Eliel (E-AhrixOne) 🔭
 
-### Ola! Seja bem-vindo ao meu Perfil 👋😸
+### Olá! Seja bem-vindo ao meu Perfil 👋😸
 
 ♦️ Meu nome é Eliel  
 - Sou um estudante de Engenharia de Software que está começando sua jornada na programação.  
@@ -15,18 +15,16 @@
 
 ---
 
-## 📊 GitHub Stats
+**Status do GitHub**:
 
-<table>
-  <tr>
-    <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=E-AhrixOne&show_icons=true&hide_border=true&icon_color=ffffff&title_color=8B0000&text_color=ffffff&bg_color=000000&include_all_commits=true&count_private=true&custom_title=Eliel~" /></td>
-    <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-AhrixOne&hide_border=true&title_color=8B0000&text_color=ffffff&bg_color=000000&layout=compact" /></td>
-  </tr>
-</table>
+<div>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=E-AhrixOne&show_icons=true&hide_border=true&icon_color=ffffff&title_color=8B0000&text_color=ffffff&bg_color=000000&include_all_commits=true&count_private=true&custom_title=Eliel~" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-AhrixOne&hide_border=true&title_color=8B0000&text_color=ffffff&bg_color=000000&layout=compact" />
+</div>
 
 ---
 
-## 📕 Linguagens que estou estudando
+## 📊 Linguagens que estou estudando
 
 ![Android](https://img.shields.io/badge/-Android-3ddc84?style=flat-square&logo=android&logoColor=fff)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=fff)
@@ -44,7 +42,7 @@
 
 ---
 
-<p>
+<p align="center">
   Obrigado por visitar meu perfil! 🌟<br>
   Sinta-se à vontade para me seguir ou ver meus projetos.
 </p>
