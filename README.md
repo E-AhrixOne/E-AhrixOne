@@ -43,6 +43,5 @@
 ---
 
 <p align="center">
-  Obrigado por visitar meu perfil! 🌟<br>
-  Sinta-se à vontade para me seguir ou ver meus projetos.
+  Obrigado por visitar meu perfil! 😸👍<br>
 </p>
