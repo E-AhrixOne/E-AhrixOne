@@ -1,13 +1,11 @@
-# Eliel (E-AhrixOne) 🔭
+# E-AhrixOne ✨
 
-### Olá - Seja bem-vindo ao meu Perfil 👋😸
+### Bem-vindo ao meu Perfil 👋😸
 
-♦️ Meu nome é Eliel  
-> ✨ Cursando Engenharia de Software e desenvolvendo minhas habilidades em programação.  
-> ✨ Gosto do mundo Android, Kernel e sistemas.
+♦️ Meu nome é Eliel
 
----
-
+- 🎓 Cursando Engenharia de Software e desenvolvendo minhas habilidades em programação.  
+- 🤖 Gosto do mundo Android, Kernel e sistemas.
 - 📱 Estudando sobre desenvolvimento Android  
 - 🧠 Aprendendo a programar
 
