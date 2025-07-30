@@ -1,17 +1,15 @@
 # Eliel (E-AhrixOne) 🔭
 
-### Olá! Seja bem-vindo ao meu Perfil 👋😸
+### Olá - Seja bem-vindo ao meu Perfil 👋😸
 
 ♦️ Meu nome é Eliel  
-- Sou um estudante de Engenharia de Software que está começando sua jornada na programação.  
-> ✨ Gosto do mundo Android, tecnologia e tudo que envolve sistemas.
+> ✨ Cursando Engenharia de Software e desenvolvendo minhas habilidades em programação.  
+> ✨ Gosto do mundo Android, Kernel e sistemas.
 
 ---
 
-- pt-BR  
-- 📱 Apaixonado por Android  
-- 🧠 Aprendendo a programar do zero  
-- 🌌 Sonhador que busca fazer a diferença com tecnologia
+- 📱 Estudando sobre desenvolvimento Android  
+- 🧠 Aprendendo a programar
 
 ---
 
@@ -24,24 +22,17 @@
 
 ---
 
-## 📊 Linguagens que estou estudando
+## 📊 Linguagens em estudo
 
 ![Android](https://img.shields.io/badge/-Android-3ddc84?style=flat-square&logo=android&logoColor=fff)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-f80000?style=flat-square&logo=oracle&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
-![C++](https://img.shields.io/badge/-C%2b%2b-00599c?style=flat-square&logo=C%2b%2b&logoColor=fff)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=oracle&logoColor=fff)
 
 ---
 
-## ✨ Quero um dia...
+## ✨ Objetivos
 
-🎯 Me tornar um bom desenvolvedor  
+🎯 Tornar-me um bom desenvolvedor  
 🚀 Contribuir com projetos open-source  
-🌱 Crescer como pessoa e profissional com cada linha de código
-
----
-
-<p align="center">
-  Obrigado por visitar meu perfil! 😸👍<br>
-</p>
+🌱 Evoluir continuamente como profissional
